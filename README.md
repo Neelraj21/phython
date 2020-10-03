@@ -1,4 +1,4 @@
-phython -- "physics hackathon"
+python -- "physics hackathon"
 =============================
 
 ## DESCRIPTION
